@@ -24,7 +24,3 @@ This won't be about "teaching" but more about refreshing memory. I think this is
 different than a reference because I'm assuming a future me that has some vague
 notions of things and also, I'm anticipating a bit of what I'd be trying to do
 and my usual setup.
-
-
-
-
